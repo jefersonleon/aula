@@ -23,7 +23,7 @@ Este projeto visa mostrar para quem está iniciando a importancia da documentaç
 ### JAVASCRIPT
 
 ## Telas
-![Exemplo](imagens/aula.jpg)
+![Exemplo](aula.jpg)
 
 ## Instalação
 
@@ -41,5 +41,7 @@ Você pode ajudar melhorando esse README.
 
 ## Contato
 
-:whatsapp: 51 - 99999-9999.
-:instagram:@jefersonfleon
+<i class="fab fa-whatsapp">(51)9.9999-9999</i>
+ 
+<i class="fab fa-instagram">@jefersonfleon</i>
+
