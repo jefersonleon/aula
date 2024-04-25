@@ -43,7 +43,9 @@ Você pode ajudar melhorando esse README.
 
 ## Contato
 
-<i class="fab fa-whatsapp"></i> (51) 9.9999-8888
+:whatsapp:
+ (51) 9.9999-8888
  
-<i class="fab fa-instagram">@jefersonfleon</i>
+:instagran: 
+@jefersonfleon
 
