@@ -43,9 +43,9 @@ Você pode ajudar melhorando esse README.
 
 ## Contato
 
-:whatsapp:
+![Ícone do WhatsApp](whats.png)
  (51) 9.9999-8888
  
-:instagran: 
+![Ícone do WhatsApp](insta.png)
 @jefersonfleon
 
