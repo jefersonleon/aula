@@ -43,7 +43,7 @@ Você pode ajudar melhorando esse README.
 
 ## Contato
 
-<i class="fab fa-whatsapp">(51)9.9999-9999</i>
+<i class="fab fa-whatsapp"></i>
  
 <i class="fab fa-instagram">@jefersonfleon</i>
 
