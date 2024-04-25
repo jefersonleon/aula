@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-ZlCQMb0z5ZzV9I5nqzmCYpSQuaGsGvEN6hnI6jCDbGDT9zxdvjTtRYjbE5ZflOYKorZz9XZnE+XOwSO3on0ABw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 # PROJETO MODELO GITHUB
 Este projeto tem por finalidade mostrar como subir o meu projeto para o Github e tambem de como elaborar o README.md do projeto
 
