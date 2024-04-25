@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-ZlCQMb0z5ZzV9I5nqzmCYpSQuaGsGvEN6hnI6jCDbGDT9zxdvjTtRYjbE5ZflOYKorZz9XZnE+XOwSO3on0ABw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 # PROJETO MODELO GITHUB
 Este projeto tem por finalidade mostrar como subir o meu projeto para o Github e tambem de como elaborar o README.md do projeto
@@ -43,7 +43,7 @@ Você pode ajudar melhorando esse README.
 
 ## Contato
 
-<i class="fab fa-whatsapp"></i>
+<i class="fab fa-whatsapp"></i> (51) 9.9999-8888
  
 <i class="fab fa-instagram">@jefersonfleon</i>
 
